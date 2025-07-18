@@ -1,4 +1,4 @@
 # GitDemo
 exploring Git
 <br>
-owner - "Deependra Singh"
+owner - "Deependra Gurjar"
